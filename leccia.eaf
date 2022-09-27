@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-27T04:20:57+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/user/Downloads/videoplayback (online-video-cutter.com).mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./videoplayback (online-video-cutter.com).mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:15e3866c-aeb4-4fd2-99bb-da2cb0680828</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="15040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="15040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="15140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="21630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="21820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="21870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="55260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="55260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="55510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="55540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="191020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="191080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="191100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="240180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="240190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="240310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="240310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="304990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="305010"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="@rtr2004m" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@mvs1985m" TIER_ID="text@mvs1985m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>будет необычная лекция / она будет не про либертарианство / а о том как быть эффективным политиком / о том как доносить свои / а / идеи до людей / и о том как не замкнуться в собственной эхокомнате / а / как / э / не превратить идеологическую политику в том числе в секту</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>а / но / п / на вопросы про либертарианство тоже с удовольствием отвечу после лекции / а / не стесняйтесь тоже их задавайте</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>так вот / а / меня часто в последнее время обвиняют что я увлекся популизмом / что я обращаюсь к какой-то риторике к который либертарианцы традиционно не обращаются / а / и что таким образом мы / а  / и что таким образом мы можем поли... потерять свое идеологическое составляющее / на самом деле это абсолютно не так / популизм это всего лишь инструмент / инструмент который может находится в руках как / а / людей / а  / которые работают в интересах / э  / общества  / которые рассчитывают представлять  / а  / в интересах идей / которые они продвигают / так и в руках людей которые впринципе используют ...  пользуются этим инструментом просто для того чтобы продавать себя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>а / и вольн... и волна  / а / популистическая волна которую мы сегодня наблюдаем в Европе / которая происходит в США  / которая привела к победе брекзита / к победе Трампа / а / она случилась почему?  / / потому что люди у которых в голове была идея / люди у которых в голове была / а / а  / которые руководствовались идеологией / х.. или хотя бы представлением о том чего они рассчитывают добиться они в какой-то момент отказались от популистических инструментов / они отказались разговаривать с обществом которое они пытаются представлять / / что я имею ввиду?  / / а  / популизм это всего лишь реакция на общественный запрос вот  / а / самая главная и самая частая ошибка которую допускают идеологические политики которые много лет / которые много лет допускали либертарианцы в России / как мне кажется до того как я  / а  / занялся работой с либертарианской повесткой  / это  / / как / к... это... это когда вы начинаете выстравлять идеологию / э  / ставить идеологию во главе угла и говорить что / как это было принято у левых / я прошу прощения что / а / либертарианство всесильно потому что оно верно / вот никакая идеология не всесильна потому что она верна / идеология нужна только для того чтобы / отвечать на чаяния / и на / а / ожидания / и на запрос общества / если вы это отказываете дел... отказываетесь делать вы в какой-то момент проигрываете / и то что произошло в США с выборами и с победой Трампа на самом деле очень показательный пример / потому что Трамп это чистый популист / это человек без какой-либо идеологии / но человек который очень четк... очень  / а / чутко чувствует общественные запросы просто как  / э / пятно Роршаха каждому показывает то что человек хочет в нем увидеть / но проблема такого подхода заключается разумеется в том что ты можешь это все показывать но если у тебя нету какого-то внутреннего стержа... есь... стержня если у тебя нет идеологии / то ты не сможешь предложить какой-то внятный ответ / все что ты будешь делать это усиливать общественный запрос не давая ответа / а политика это способность давать ответ / объяснять людям а что же они хотят / потому что общественный запрос / он всегда выглядит крайне  / абстрактно крайне нечетко / люди хотят справедливости / вот Екатерина Шульман очень критикует этот термин / но  / / это одно из самых базовых  / э / базовых потребностей человека / это потребность в справедливости  / а / потребность в удовлетворении какой-то / м / попрын... попранного чувства правды        </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>а / но люди не понимают что такое справедливость / у каждого понимание свое / каждый чувствует обиду / но до конца не может сформулировать а к... как же н... как же на это можно ответить / и задача политика / опираяь на этот общественный запрос / опираясь на запрос о справедливости объяснить человеку а что такое справедливость  / а как ее можно восстановить / вот и если политик этого не делает / если политик начинает игнорировать  / а  / легитимные чаяния общества / а чаяния общества всегда легитимны / никогда нь... нь... не... нельзя относится к ним пребрежить... нь... пренебрежительно какими бы  они ни были  / а  / и если политик отказывается на рих реагировать / то он не способен на них отвечать / и он превращается в маргинала / и именно в маргинала сегодня превращаются  / а / западный эстеблишмент / и именно в маргиналов кстати сегодня превращаются власть в России тоже / хотя долгое время маргиналами была то как раз и оппозиция       </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>что я имею ввиду когда  / э / говорю об общественном запросе  / а  / общественный запрос может быть вам не симпатичен  / потому что когда люди думают о справедливости / э  / люди думают о  / а  / в.. в таких широких терминах  / вот и левый и правый запрос  / они легитимны / / если вы рассчитываете обращаться к людям вам нужно понимать / а что вы можете предложить / / и когда я  / а / рассказываю про либертарианство / когда я читаю  / рассказываю об этом на разную аудиторию вы можете посмотреть как я о либертаринстве говорю там на каких-нибудь левых каналах на которые меня приглашают / я вот у Константина Семина например был / как я про либертарианство говорю на каких-то радикально правых каналах / на которые я прихожу я говорю / абсолютно / а / на разных языках / потому что чаяния одной аудитории и я чаяния другой аудитории  / *кашель* / и чаяния другой аудитории / они отличаются / и для того чтобы они меня услышали / мне нужно ответить на базовый вопрос / это базовый вопрос для любого политика / а как я могу помочь этому человеку? / вот как та идеология которой я руководствуюсь выгодна этому человеку исходя из его собственных ценностей              </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@rtr2004m" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@mvs1985m" TIER_ID="transl@mvs1985m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>The following lecture is not going to be the usual one, it will not be about libertarianism, but instead about how you can be a good politician, how you can relate to people using your ideas, and about how to not shut yourself in the room with only the echo of yours, about how to not turn your ideology into a sect</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>I will gladly answer all the questions about libertarianism after the lecture, so don't be shy to ask me something</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>so, nowadays people say that I am a populist, that I do not think or talk like traditional libertarians do, so we can lose our ideological bonds. But that's not the case. Populism is just  an instrument that certain people can use on behalf of the society and other people can use it as an instrument that can help them reach a certain level of popularity. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>So the notable wave of populism in Europe and the USA that caused Brexit and Trump’s presidential election win has its certain roots. The reason for occurrence of that wave is reaction to public demands. The biggest mistake that russian libertarians made before my political career had started is when they drew general conclusions based on a tradition in a certain ideology. There’s no way that ideology can be more efficient even if this ideology always represents the truth. Ideology exists only for fulfilling the demands of society. And when politicians do not meet the demands of society, they lose. The Trump’s win is a good example of how this idea works. Trump is just a populist, he knows the society demands at the moment. He doesn’t have his own ideology. But the problem is that there is no question-answering. Populists make more demands from society, but they do not know how to deal with them. But in fact politics should give one the idea of what to do when you want a certain thing to happen, because usually people cannot explain their abstract demands. Ekaterina Shulman does not really like the term, but  the “need for justice” is an essential human demand.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>But people usually do not truly understand what “justice” is. Everyone has their own definition of the word, but usually the word cannot be fully defined by an individual. So politicians need to answer the question: “what exactly justice is and how can we achieve it?”.  Demands of the society are always legitimate and politicians should never ignore them. If a politician ignores the demands, he becomes a “hermit”. At this period of time, western politicians (From Europe and Use) are marginalising, and Russian politicians do so too, even though not so long ago the  Russian opposition were marginals.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>What do I mean when I’m talking about society demands? The thing is, people always think about the left and the right. Both of the groups have a certain legitimate opinion on how things should go. If you want to somehow relate to people, you need to always ask yourself: “How can I help them and what thought-provoking ideas can I offer?”. When you see me on different youtube channels you can notice that I use different techniques and different terminology just to relate to a person, because every individual has a certain political position and ideological mindset, so I try to relate to them from different perspectives. Every youtube channel has its own audience, and the audience has a certain ideology. So every politician should ask themselves some key questions like “How can I help this person?” or “In what way my ideology can be helpful to this person with his/her own ideology”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
